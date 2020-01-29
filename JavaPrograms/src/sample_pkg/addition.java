@@ -17,7 +17,7 @@ public class addition {
 		int n = 0;
 		double b = 5;
 		float c = 5.8f;
-		char d = 5;
+		char d = 87;
 		double fiveForths = (5+19*2);
 		
 		System.out.println("a="+a+ 
